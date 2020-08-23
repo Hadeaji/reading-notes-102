@@ -17,6 +17,6 @@
 - I have to try my best to the last minute and if i didn't i am worthless
 
 ### 3. Thired 
-- Being sarcastic :trollface: is the cooling system of my mind when facing hard solving problems
+- Being sarcastic :smile: is the cooling system of my mind when facing hard solving problems
 
 # It works for me but what about you

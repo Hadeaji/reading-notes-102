@@ -1,9 +1,8 @@
 # Growth mindset in my own words 
 ### Growth mindset is the the abbilty to improve to develop yourself in the learning phase
 ### To be overall a better version of yourself and acheive higher grades or goals than you
-### Would do while you are fixed mind afixed mind bounded to the groud cant grow or produce, a casual....
-
-
+### Would do while you are fixed mind afixed mind bounded to the groud sees every higher mind as a threat
+### Refuses to grow and istead wishes collapsing to others so they be on their level
 
 
 

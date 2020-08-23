@@ -16,7 +16,8 @@ The text editor are programes we use to write code easier and faster than using 
 using Text Editors is much faster and healthier to coders and improve the quality of life to them
 
 #### Some Text Editors i consider:
-There is alot of good Text Editors out there such as Sublime Text, Brackets, NotePad++, Visual Studio Code and atom
+There is alot of good Text Editors out there such as Sublime Text, Brackets, NotePad++, Visual Studio Code and atom.
+
 But i myself prefare **Visual Studio Code** because i have some clue about it and it matshs mystyle the most
 i also may try Atom later
 

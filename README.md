@@ -3,6 +3,11 @@
 ### to be overall a better version of yourself and acheive higher grades or goals than you
 ### would do while you are fixed mind afixed mind bounded to the groud cant grow or produce, a casual....
 
+
+
+
+
+
 ## to keep myself awar and try to keep my mindset growing:  
 
 ### first 

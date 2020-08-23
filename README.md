@@ -12,6 +12,7 @@
 
 ### 1. First 
 - When i face a challenge and my brain says imposible i say to him challenge accepted
+![Alt Text](https://images-na.ssl-images-amazon.com/images/I/41pih9cD1-L._AC_SX425_.jpg)
 
 ### 2. Second 
 - I have to try my best to the last minute and if i didn't i am worthless

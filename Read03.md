@@ -9,7 +9,8 @@ to the programmer.
 so, when you are working offline **Git** is tracking your work and record it, when you type the command `git status` 
 in terminal you will get a status shows you the last configaration done to your file, whats is modified or not 
 and whats add or deleted you can prepare files to commit by typing `git add .`
-confirm your edits and to commit them by typing the command `git commit -m "here you type a message to title your changes"`
+confirm your edits and to commit them by typing the command
+`git commit -m "here you type a message to title your changes"`
 
 
 ##### Now they are ready to get uploaded to the cloud

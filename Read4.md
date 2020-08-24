@@ -11,7 +11,7 @@ In order to start a website first you have to know first that html pages are con
  - Insatll all extentions you need and get things prepard for work
 
 ### 2. Before you start working:
- #### Before you start woking you have to:
+#### Before you start woking you have to:
  
 ##### 1. Ask yourself some questions:
   - *Who are you?* *sorry just kidding XD*
@@ -23,15 +23,17 @@ In order to start a website first you have to know first that html pages are con
   - For what resons they will visit your page?
   - Do they need to find there targeted pruduct in hurry?
   - *And whatever you find helpful about them*
+  
 ##### 2. Prepare your wireframe:
- The wireframe is a basic structure design for your page it should contain:
+The wireframe is a basic structure design for your page it should contain:
  - All elements of your page
  - How it should look like
  - Whish element goes where
  - Site maps is always helpful
  - Dont stick everything togather
  - You should Organize the page in simple and beautiful way
- ###### after you consider a design now you can start working
+ 
+###### after you consider a design now you can start working
 
 #### 3. During your prosses:
  - Make sure to use tags currctly

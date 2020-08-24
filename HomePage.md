@@ -8,10 +8,10 @@
 
 ReadNum      | Assignments Name and Link
 ------------ | -------------
-Read: 01     | [Learning Markdown] (https://hadeaji.github.io/reading-notes/Summery)
+Read: 01     | [Learning Markdown](https://hadeaji.github.io/reading-notes/Summery)
 ------------ | -------------
-Read: 02     | [The Coder's Computer] (https://hadeaji.github.io/reading-notes/Summery2)
+Read: 02     | [The Coder's Computer](https://hadeaji.github.io/reading-notes/Summery2)
 ------------ | -------------
-Read: 03     | [Revisions and the Cloud]  (https://hadeaji.github.io/reading-notes/Read03)
+Read: 03     | [Revisions and the Cloud](https://hadeaji.github.io/reading-notes/Read03)
 ------------ | -------------
-Read: 04     | [Structure web pages with HTML] (https://hadeaji.github.io/reading-notes/Read4)
+Read: 04     | [Structure web pages with HTML](https://hadeaji.github.io/reading-notes/Read4)

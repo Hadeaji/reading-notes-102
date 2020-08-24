@@ -36,7 +36,7 @@ In order to start a website first you have to know first that html pages are con
  - Make sure to use tags currctly
  - Organize your work and time
  - Using ID's before CSSing the page is recommanded
- - Be patient and dont let error make you down *cause you will face alot*
+ - Be patient and dont let error make you down ***cause you will face alot***
  
 
  

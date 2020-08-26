@@ -19,7 +19,7 @@ there is alot of applecation of jave script like slideshows, forms and filtring 
 - arithmetic: `speed = 4 * 9;`    other arithmetic ,/ ,* ,- ,+ ,++ ,-- 
 - string: words like `full name ='ahmed' + 'mohammad';`
 - comparsion: <  =  >
-- logical: || or   && and 
+- logical: `||` or   `&&` and 
 
 #### functions:
 The functions are groups of rules that create the task by taking inserted variables in 

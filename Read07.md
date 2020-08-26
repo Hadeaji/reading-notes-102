@@ -23,7 +23,7 @@ there is alot of applecation of jave script like slideshows, forms and filtring 
 
 #### functions:
 The functions are groups of rules that create the task by taking inserted variables in 
-proceeding it throght its rules
+proceeding it throught its rules
 It can be called by names so the function can be used again whenever it is needed
 
 
